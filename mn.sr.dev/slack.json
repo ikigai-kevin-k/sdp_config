@@ -1,0 +1,26 @@
+{
+    "environments": {
+      "CIT": {
+        "enabled": true,
+        "description": "Development environment"
+      },
+      "QAT": {
+        "enabled": true,
+        "description": "Development environment"
+      }
+    },
+    "enabled_environments": [
+      "CIT","QAT"
+    ],
+    "instant_notifications": {
+      "enabled": {
+        "ROULETTE_LAUNCH_FAIL": false,
+        "ROULETTE_SENSOR_STUCK": true,
+        "NO_START": true,
+        "NO_BETSTOP": true,
+        "NO_DEAL": true,
+        "NO_FINISH": true
+      }
+    },
+    "description": "Configuration to enable/disable Slack API error notifications for each environment. Set 'enabled' to false to disable Slack notifications for that environment. The 'enabled_environments' list is for backward compatibility."
+  }

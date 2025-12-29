@@ -1,0 +1,26 @@
+{
+  "enabled": false,
+  "idle_mode": {
+    "enable_switch_curl": false,
+    "enable_reboot": false
+  },
+  "main_to_back": {
+    "day_of_week": "thu",
+    "hour": 1,
+    "minute": 0,
+    "second": 0,
+    "timezone": "UTC",
+    "mode": "s-mode",
+    "description": ""
+  },
+  "back_to_main": {
+    "day_of_week": "fri",
+    "hour": 1,
+    "minute": 0,
+    "second": 0,
+    "timezone": "UTC",
+    "mode": "s-mode",
+    "description": ""
+  }
+}
+

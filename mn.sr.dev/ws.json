@@ -1,0 +1,31 @@
+{
+    "server_url": "wss://studio-api.iki-cit.cc/v1/ws",
+    "token": "0000",
+    "tables": [
+      {
+        "table_id": "ARO-001",
+        "name": "ARO-001",
+        "device_id": "ARO-001-1"
+      },
+      {
+        "table_id": "ARO-002",
+        "name": "ARO-002",
+        "device_id": "ARO-002-1"
+      }
+    ],
+    "device_mapping": {
+      "ARO-002-1": {
+        "table_id": "ARO-002",
+        "device_id": "ARO-002-1"
+      },
+      "ARO-002-2": {
+        "table_id": "ARO-002",
+        "device_id": "ARO-002-2"
+      }
+    },
+    "triggers": {
+      "websocket_down": false,
+      "websocket_down_pause": false,
+      "websocket_up_resume": false
+    }
+  }

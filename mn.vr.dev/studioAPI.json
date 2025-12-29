@@ -1,0 +1,23 @@
+{
+  "triggers": {
+    "websocket_down": false,
+    "websocket_down_pause": false,
+    "websocket_up_resume": false,
+    "websocket_pause_resume": false,
+    "websocket_error_signal": false,
+    "http_status_check_down": false,
+    "http_status_check_down_pause": false,
+    "http_status_check_up_resume": false
+  },
+  "description": {
+    "websocket_down": "Enable/disable WebSocket 'down' signal handling (行 3195-3209)",
+    "websocket_down_pause": "Enable/disable WebSocket 'down_pause' signal handling (行 3212-3280)",
+    "websocket_up_resume": "Enable/disable WebSocket 'up_resume' signal handling (行 3301-3495)",
+    "websocket_pause_resume": "Enable/disable WebSocket 'pause_resume' signal handling (行 3516-3585)",
+    "websocket_error_signal": "Enable/disable WebSocket error signal handling (行 3587-3646)",
+    "http_status_check_down": "Enable/disable HTTP status check 'down' handling (行 4980-5049)",
+    "http_status_check_down_pause": "Enable/disable HTTP status check 'down_pause' handling (行 4980-5049)",
+    "http_status_check_up_resume": "Enable/disable HTTP status check 'up_resume' handling (行 5050-5074)"
+  }
+}
+

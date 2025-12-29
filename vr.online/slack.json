@@ -1,0 +1,13 @@
+{
+  "enabled_environments": [
+    "STG"
+  ],
+  "description": "List of environments that should send Slack notifications. Only environments listed here will send notifications to Slack.",
+  "instant_notifications": {
+    "enabled": {
+      "ROULETTE_RELAUNCH": false,
+      "ROULETTE_RELAUNCH_FAILED": false
+    },
+    "description": "Control which error types should send instant Slack notifications. If disabled, errors will only be recorded for hourly summary reports."
+  }
+}

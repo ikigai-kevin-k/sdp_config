@@ -1,0 +1,16 @@
+{
+    "pause_post": {
+      "enabled": false,
+      "enabled_environments": {
+        "CIT": false,
+        "UAT": false,
+        "PRD": false,
+        "STG": false,
+        "QAT": false,
+        "GLC": false
+      }
+    }
+  }
+  
+  
+  

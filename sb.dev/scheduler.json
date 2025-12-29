@@ -1,0 +1,21 @@
+{
+  "main_to_back": {
+    "day_of_week": "wed",
+    "hour": 0,
+    "minute": 43,
+    "second": 0,
+    "timezone": "UTC",
+    "mode": "s-mode",
+    "description": ""
+  },
+  "back_to_main": {
+    "day_of_week": "mon",
+    "hour": 2,
+    "minute": 40,
+    "second": 0,
+    "timezone": "UTC",
+    "mode": "s-mode",
+    "description": ""
+  }
+}
+

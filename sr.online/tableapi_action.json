@@ -1,0 +1,14 @@
+{
+  "pause_post": {
+    "enabled": false,
+    "description": "Enable/disable pause_post functionality. Set to true to enable pause_post calls, false to disable them. Default: false (disabled)"
+  },
+  "broadcast": {
+    "idle_table_api": {
+      "broadcast_interval_seconds": 10,
+      "description": "Broadcast interval for idle_table_api mode. System will continuously send broadcast post at this interval when in idle_table_api mode."
+    }
+  },
+  "description": "Unified configuration for table API actions including pause_post and broadcast settings."
+}
+

@@ -1,0 +1,13 @@
+{
+  "tables": [
+    {
+      "name": "STG",
+      "get_url": "https://crystal-table.iki-stg.cc/v2/service/tables/",
+      "post_url": "https://crystal-table.iki-stg.cc/v2/service/tables/",
+      "game_code": "ARO-001",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJlZTc2NGYzMS1jMDRlLTQyMWItYmI0MS02ZTQwM2M5MmRlOTkiLCJnYW1lQ29kZSI6WyJBUk8tMDAxIl0sInJvbGUiOiJzZHAiLCJjcmVhdGVkQXQiOjE3NjY2NDU1NTM3MDksImlhdCI6MTc2NjY0NTU1M30.bAv7F-kAs8nkv3Tw58bVMnVGYBpPaLv-3tpnQYyuB6A",
+      "table_token": "E5LN4END9Q"
+    }
+  ],
+  "environments": ["STG"]
+}

@@ -1,0 +1,21 @@
+{
+  "test_mode": {
+    "enabled": false,
+    "description": "Enable/disable test mode. When enabled, system will force trigger errors for testing purposes."
+  },
+  "force_tableapi_error": {
+    "enabled": false,
+    "error_type": "NO_START",
+    "table_name": "CIT",
+    "table_code": "ARO-001",
+    "api_type": "start",
+    "broadcast_type": "tableapi.no_start",
+    "description": "Force trigger tableAPI error to test idle_table_api mode. Set enabled to true to trigger immediately."
+  },
+  "force_sensor_stuck_error": {
+    "enabled": false,
+    "description": "Force trigger sensor stuck error to test idle_sensor_stuck mode. Set enabled to true to trigger immediately."
+  },
+  "description": "Test configuration for forcing errors to test error handling, Slack notifications, and idle mode transitions."
+}
+
