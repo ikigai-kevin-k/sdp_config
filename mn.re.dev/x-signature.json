@@ -1,0 +1,10 @@
+{
+  "CIT": "los-local-signature",
+  "UAT": "los-local-signature",
+  "QAT": "los-local-signature",
+  "STG": "los-local-signature",
+  "PRD": "los-local-signature",
+  "GLC": "los-local-signature",
+  "DEV": "los-local-signature",
+  "description": "X-Signature configuration for table API calls. Set the x-signature value for each environment (CIT/UAT/QAT/STG/PRD/GLC/DEV). All game codes in the same environment share the same x-signature. Default: los-local-signature"
+}
