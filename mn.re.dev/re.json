@@ -1,0 +1,11 @@
+[
+  {
+    "name": "CIT",
+    "get_url": "https://crystal-table.iki-cit.cc/v2/service/tables/",
+    "post_url": "https://crystal-table.iki-cit.cc/v2/service/tables/",
+    "game_code": "ARO-001-d",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI4Yzg1NTQ1Yi0zNmY5LTQ3YTAtYWRkZC0wMWY0ZGNjZWZiMjMiLCJnYW1lQ29kZSI6WyJBUk8tMDAxLWQiXSwicm9sZSI6InNkcCIsImNyZWF0ZWRBdCI6MTc2Njk5NTU4MjIzNCwiaWF0IjoxNzY2OTk1NTgyfQ.qgQobyR5SZXmmQJKnjqRqdDOKbT7iOBENE5wuC3JHxk",
+    "table_token": "E5LN4END9Q"
+  }
+]
+
