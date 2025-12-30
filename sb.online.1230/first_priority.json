@@ -1,0 +1,14 @@
+{
+    "first_priority_environment": "PRD",
+    "tables": [
+      {
+        "name": "PRD",
+        "get_url": "https://crystal-table.novvy-csl.cc/v2/service/tables/",
+        "post_url": "https://crystal-table.novvy-csl.cc/v2/service/tables/",
+        "game_code": "SBO-001",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJlYWViMzFlMS0zMTU4LTRhOTItOGUxNy03MzEzODJhODFhNGYiLCJnYW1lQ29kZSI6WyJTQk8tMDAxIl0sInJvbGUiOiJzZHAiLCJjcmVhdGVkQXQiOjE3NjcwNzk1OTAyNzUsImlhdCI6MTc2NzA3OTU5MH0.MO8d3-aAvnjhTCXAMCwNzzwu3xtRX30-87Ll2syQLBs",
+        "table_token": "E5LN4END9Q"
+      }
+    ]
+  }
+  

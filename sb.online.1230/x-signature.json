@@ -1,0 +1,14 @@
+{
+    "sb": {
+      "CIT": "los-local-signature",
+      "UAT": "los-local-signature",
+      "QAT": "los-local-signature",
+      "STG": "e6f3a9d2c7b8a0f4e1d5c9b6a3f7e2d8c4b1a9f0e5d7c6b3",
+      "PRD": "a1d7f4c9e6b2f8a5d0c3e7b9a4f1c6d8e2b5a0f9c7d3e6",
+      "GLC": "los-local-signature",
+      "DEV": "los-local-signature"
+    },
+    "description": "X-Signature configuration for table API calls. Set the x-signature value for each environment (CIT/UAT/QAT/STG/PRD/GLC/DEV) in both sb and sb-d game types. Default: los-local-signature"
+}
+  
+  

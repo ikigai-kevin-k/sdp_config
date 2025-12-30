@@ -1,0 +1,14 @@
+{
+    "enabled": false,
+    "enabled_environments": {
+      "CIT": false,
+      "UAT": false,
+      "QAT": false,
+      "STG": false,
+      "PRD": false,
+      "DEV": false,
+      "GLC": false
+    }
+  }
+  
+  

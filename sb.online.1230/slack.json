@@ -1,0 +1,23 @@
+{
+    "invalid_result_broadcast": {
+      "notification_mode": "summary",
+      "channel": "#alert-tw-studio",
+      "mention_user": "Kevin Kuo",
+      "error_code": "SICBO_INVALID_RESULT",
+      "enabled_environments": {
+        "PRD": true
+      }
+    },
+    "table_api_response_error": {
+      "enabled": true,
+      "channel": "#alert-tw-studio",
+      "mention_user": "Kevin Kuo",
+      "error_code": "TABLE_API_RESPONSE_ERROR",
+      "enabled_environments": {
+        "PRD": true
+      },
+      "include_error_details": true
+    }
+  }
+  
+  
