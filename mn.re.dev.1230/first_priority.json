@@ -1,0 +1,21 @@
+{
+    "tables": [
+      {
+        "name": "CIT",
+        "get_url": "https://crystal-table.iki-cit.cc/v2/service/tables/",
+        "post_url": "https://crystal-table.iki-cit.cc/v2/service/tables/",
+        "game_code": "ARO-001-d",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI2Zjk4YjAzOS04NTJmLTRmZjMtYjY1OC1iZTkyZWQ5ZTgzYWEiLCJnYW1lQ29kZSI6WyJBUk8tMDAxLWQiXSwicm9sZSI6InNkcCIsImNyZWF0ZWRBdCI6MTc2NTA4Nzk2OTg0OSwiaWF0IjoxNzY1MDg3OTY5fQ.Fij-sWhI1mW8CfoFe-rhdKU2SHZIJQmoEe_UJgF3XWc",
+        "table_token": "E5LN4END9Q"
+      },
+      {
+        "name": "QAT",
+        "get_url": "https://crystal-table.iki-qat.cc/v2/service/tables/",
+        "post_url": "https://crystal-table.iki-qat.cc/v2/service/tables/",
+        "game_code": "ARO-001-d",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI3NjIzMGY2MC00ZWRhLTQ3NzItYmUxNi00NDBlY2NiYmMwOWMiLCJnYW1lQ29kZSI6WyJBUk8tMDAxLWQiXSwicm9sZSI6InNkcCIsImNyZWF0ZWRBdCI6MTc2NTUyOTk5NzkzNywiaWF0IjoxNzY1NTI5OTk3fQ.07MyTF2TjLJ33HU1I9vO2N92jmx9TGfQL-TCr0fD_qQ",
+        "table_token": "E5LN4END9Q"
+      }
+    ],
+    "environments": ["CIT","QAT"]
+  }
